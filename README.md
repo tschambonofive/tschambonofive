@@ -10,4 +10,3 @@
   <a href="mailto:go@jesd.tech"><img src="https://img.shields.io/badge/Kontakt-go%40jesd.tech-2563eb?style=flat-square" alt="Kontakt · go@jesd.tech"></a>
 </p>
 
-Schreib mir an **[go@jesd.tech](mailto:go@jesd.tech)**. Mehr zu meiner Arbeit findest du auf **[jesd.tech](https://jesd.tech)**.
